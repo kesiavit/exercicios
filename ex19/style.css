@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+body {
+
+    background-color: rgb(251, 253, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+
+
+
+h1#principal{
+    color: rgb(6, 0, 124);
+    stroke: rgb(177, 177, 255);
+    font-size: 55px;
+    text-align: center;
+    background-color: #bce0ff;
+}
+h1{
+    color: rgb(26, 0, 48);
+}
+
+h2{
+    color: rgb(34, 0, 170);
+}
+
+p{
+    color: rgb(13, 32, 119);
+}
+
+h2.basico{
+    color: rgb(21, 118, 21);
+}
+h2.intermediario{
+    color: rgb(202, 202, 9);
+}
+h2.avancado{
+    color: rgb(183, 16, 16);
+}
